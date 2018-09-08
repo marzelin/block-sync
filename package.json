@@ -1,0 +1,14 @@
+{
+  "name": "block-sync",
+  "version": "1.0.0",
+  "description": "synchronously blocks a thread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "block"
+  ],
+  "author": "marzelin@gmail.com",
+  "license": "MIT"
+}
